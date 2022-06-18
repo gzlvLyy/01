@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.sousuo img {
+    margin-top: 10px;
+}
+
+.sousuo input {
+    float: left;
+    width: 360px;
+    height: 35px;
+    margin-top: 30px;
+    border: 2px solid #ffc900;
+}
+
+.sousuo a {
+    float: left;
+    width: 90px;
+    height: 35px;
+    margin-top: 30px;
+    background-color: #ffc900;
+}
+
+.lunbo div {
+    width: 100%;
+    height: 400px;
+}
+
+.heima {
+    height: 36px;
+    border-bottom: 2px solid #ffc900;
+}
+
+.tuwen {
+    border: 1px solid #ccc;
+    padding: 15px 15px;
+    height: 240px;
+}
+
+.zuo {
+    height: 488px;
+    width: 360px;
+}
+
+.foot {
+    background-color: #3d3d3f;
+}
+
+.foot div {
+    padding: 10px;
+    height: 78px;
+}
+
+.foot img {
+    float: left;
+}
+
+.foot h4 {
+    margin: 0;
+    color: white;
+    line-height: 32px;
+    text-indent: 1em;
+}
+
+.foot h5 {
+    text-indent: 1em;
+    color: white;
+}
+
+.dibu {
+    line-height: 40px;
+    text-align: center;
+    height: 40px;
+    background-color: #ffc900;
+    font-size: 10px;
+}
